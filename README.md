@@ -1,2 +1,2 @@
-# meraki_security_python_modules
+# Meraki Security Python Modules
 (WIP) Meraki Security Python Modules
