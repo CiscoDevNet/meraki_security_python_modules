@@ -1,5 +1,5 @@
-merakiapikey = "a349da9f1dc6b0ec41eec588d06f62f93ae1ee51"
-merakiorg = "566327653141842061"
+merakiapikey = "<api key>"
+merakiorg = "<org id>"
 merakiurl = "api.meraki.com/api/v0"
 security_posture = {
   "vlan_enabled": {
